@@ -6,4 +6,4 @@ LAB2 - Candidate_Elimination
 
 LAB3 - Decision Tree
 
-LAB4 - 
+LAB4 - Naïve Bayesian Classifier
